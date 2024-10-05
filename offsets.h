@@ -2,6 +2,7 @@ namespace offsets
 {
     constexpr std::ptrdiff_t dwEntityList = 0x19BBCC8;
     constexpr std::ptrdiff_t dwLocalPlayerPawn = 0x1823128;
+    constexpr std::ptrdiff_t m_hPlayerPawn = 0x80C;
     constexpr std::ptrdiff_t dwViewAngles = 0x1A27C50;
     constexpr std::ptrdiff_t dwViewMatrix = 0x1A1DDE0;
     constexpr std::ptrdiff_t jump = 0x181B0D0;
